@@ -2,7 +2,7 @@
 
 module Net.IEX.Split (Split(..)) where
 
-import Data.Maybe
+-- import Data.Maybe
 import Data.Aeson
 import GHC.Generics
 

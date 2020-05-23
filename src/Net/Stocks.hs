@@ -67,13 +67,13 @@ module Net.Stocks
          BatchQuery (..)
        ) where
 
-import System.IO
+-- import System.IO
 import GHC.Generics
 import Control.Exception
 import Data.Aeson
 import Data.Char
-import Data.HashMap.Strict
-import Data.Maybe
+-- import Data.HashMap.Strict
+-- import Data.Maybe
 import Network.HTTP.Conduit
 
 import qualified Data.ByteString.Lazy.Char8 as L8
@@ -90,7 +90,7 @@ import qualified Net.IEX.Dividend           as IEXDividend
 import qualified Net.IEX.EffectiveSpread    as IEXEffectiveSpread
 import qualified Net.IEX.Financials         as IEXFinancials
 import qualified Net.IEX.OHLC               as IEXOHLC
-import qualified Net.IEX.PriceTime          as IEXPriceTime
+-- import qualified Net.IEX.PriceTime          as IEXPriceTime
 import qualified Net.IEX.Previous           as IEXPrevious
 import qualified Net.IEX.Quote              as IEXQuote
 import qualified Net.IEX.Split              as IEXSplit

@@ -3,7 +3,7 @@
 module Net.IEX.Earnings (Earning(..),
                          Earnings(..)) where
 
-import Data.Maybe
+-- import Data.Maybe
 import Data.Aeson
 import GHC.Generics
 

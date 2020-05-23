@@ -2,7 +2,7 @@
 
 module Net.IEX.Chart (Chart(..)) where
 
-import Data.Maybe
+-- import Data.Maybe
 import Data.Aeson
 import GHC.Generics
 

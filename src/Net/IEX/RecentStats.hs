@@ -2,8 +2,8 @@
 
 module Net.IEX.RecentStats (RecentStats(..)) where
 
-import Data.Either
-import Data.Maybe
+-- import Data.Either
+-- import Data.Maybe
 import Data.Aeson
 import GHC.Generics
 

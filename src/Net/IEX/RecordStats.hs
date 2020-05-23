@@ -3,7 +3,7 @@
 module Net.IEX.RecordStats (RecordStats(..),
                             RecordStatsSub(..)) where
 
-import Data.Maybe
+-- import Data.Maybe
 import Data.Aeson
 import GHC.Generics
 

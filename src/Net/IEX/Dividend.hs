@@ -2,7 +2,7 @@
 
 module Net.IEX.Dividend (Dividend(..)) where
 
-import Data.Maybe
+-- import Data.Maybe
 import Data.Aeson
 import GHC.Generics
 

@@ -2,7 +2,7 @@
 
 module Net.IEX.Relevant (Relevant(..)) where
 
-import Data.Maybe
+-- import Data.Maybe
 import Data.Aeson
 import GHC.Generics
 

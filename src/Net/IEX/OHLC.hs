@@ -4,7 +4,7 @@ module Net.IEX.OHLC (OHLC(..)) where
 
 import Net.IEX.PriceTime
 
-import Data.Maybe
+-- import Data.Maybe
 import Data.Aeson
 import GHC.Generics
 

@@ -3,7 +3,7 @@
 module Net.IEX.Financials (Financials(..),
                            Financial(..)) where
 
-import Data.Maybe
+-- import Data.Maybe
 import Data.Aeson
 import GHC.Generics
 
