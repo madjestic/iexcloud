@@ -32,17 +32,29 @@ library
              , unordered-containers >= 0.2.8.0
              , semigroups   >= 0.18.4
   exposed-modules:
-               Net.Stocks, Net.IEX.Stats
-             , Net.IEX.Chart, Net.IEX.Company
-             , Net.IEX.Earnings, Net.IEX.DelayedQuote
-             , Net.IEX.Dividend, Net.IEX.EffectiveSpread
-             , Net.IEX.Financials, Net.IEX.NewsItem
-             , Net.IEX.OHLC, Net.IEX.Previous
-             , Net.IEX.PriceTime, Net.IEX.Quote
-             , Net.IEX.Relevant, Net.IEX.Split
-             , Net.IEX.VolumeByVenue, Net.IEX.Market
-             , Net.IEX.IntraDayStats, Net.IEX.RecentStats
-             , Net.IEX.RecordStats, Net.IEX.Book, Net.IEX.TimeSeries
+               Net.Stocks
+             , Net.IEX.Stats
+             , Net.IEX.Chart
+             , Net.IEX.Company
+             , Net.IEX.Earnings
+             , Net.IEX.DelayedQuote
+             , Net.IEX.Dividend
+             , Net.IEX.EffectiveSpread
+             , Net.IEX.Financials
+             , Net.IEX.NewsItem
+             , Net.IEX.OHLC
+             , Net.IEX.Previous
+             , Net.IEX.PriceTime
+             , Net.IEX.Quote
+             , Net.IEX.Relevant
+             , Net.IEX.Split
+             , Net.IEX.VolumeByVenue
+             , Net.IEX.Market
+             , Net.IEX.IntraDayStats
+             , Net.IEX.RecentStats
+             , Net.IEX.RecordStats
+             , Net.IEX.Book
+             , Net.IEX.TimeSeries
   default-language:
                Haskell2010
 
